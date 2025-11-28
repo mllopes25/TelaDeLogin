@@ -1,0 +1,18 @@
+# ninja log v6
+147	1130	7860496862395402	C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/TelaDeLogin_autogen/mocs_compilation.cpp	8da31aa10bb45f84
+32	155	7860497280850932	C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	92657b8f23d1a15a
+147	1130	7860496862395402	TelaDeLogin_autogen/timestamp	8da31aa10bb45f84
+1147	5314	7860496863891875	CMakeFiles/TelaDeLogin.dir/mainwindow.cpp.obj	bfe0a5c4602be89c
+147	1130	7860496862395402	TelaDeLogin_autogen/mocs_compilation.cpp	8da31aa10bb45f84
+1142	5168	7860496863761685	CMakeFiles/TelaDeLogin.dir/main.cpp.obj	8fb49555775a0f39
+147	1130	7860496862395402	C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/TelaDeLogin_autogen/timestamp	8da31aa10bb45f84
+1137	4960	7860496863761685	CMakeFiles/TelaDeLogin.dir/TelaDeLogin_autogen/mocs_compilation.cpp.obj	efda64ab067ebb6d
+5315	5652	7860496905583124	TelaDeLogin.exe	3d66197c8671aeb
+155	1183	7860497290337975	build.ninja	89acfc2263d901e6
+29	160	7860497292060625	C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	92657b8f23d1a15a
+178	388	7860497293511396	TelaDeLogin_autogen/timestamp	8da31aa10bb45f84
+178	388	7860497293511396	TelaDeLogin_autogen/mocs_compilation.cpp	8da31aa10bb45f84
+178	388	7860497293511396	C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/TelaDeLogin_autogen/timestamp	8da31aa10bb45f84
+178	388	7860497293511396	C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/TelaDeLogin_autogen/mocs_compilation.cpp	8da31aa10bb45f84
+389	5544	7860497295651431	CMakeFiles/TelaDeLogin.dir/mainwindow.cpp.obj	bfe0a5c4602be89c
+5545	5939	7860497347212930	TelaDeLogin.exe	3d66197c8671aeb
