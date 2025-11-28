@@ -377,6 +377,7 @@ C:/Users/Administrator/Documents/TelaDeLogin/mainwindow.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/TelaDeLogin_autogen/moc_predefs.h
  mdp:C:/Users/Administrator/Documents/TelaDeLogin/mainwindow.h
-C:/Users/Administrator/Documents/TelaDeLogin/main.cpp
 C:/Users/Administrator/Documents/TelaDeLogin/mainwindow.cpp
  uic:./ui_mainwindow.h
+C:/Users/Administrator/Documents/TelaDeLogin/main.cpp
+C:/Users/Administrator/Documents/TelaDeLogin/NovoArquivo.cpp

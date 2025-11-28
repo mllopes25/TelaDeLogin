@@ -404,6 +404,11 @@
 	"SETTINGS_FILE" : "C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/TelaDeLogin_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/Administrator/Documents/TelaDeLogin/NovoArquivo.cpp",
+			"MU",
+			null
+		],
 		[ "C:/Users/Administrator/Documents/TelaDeLogin/main.cpp", "MU", null ],
 		[
 			"C:/Users/Administrator/Documents/TelaDeLogin/mainwindow.cpp",

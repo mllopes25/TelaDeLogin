@@ -41,6 +41,7 @@ endif()
 # _directory_contents at C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Administrator/Documents/TelaDeLogin/*.cpp")
 set(OLD_GLOB
+  "C:/Users/Administrator/Documents/TelaDeLogin/NovoArquivo.cpp"
   "C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/TelaDeLogin_autogen/EWIEGA46WW/moc_mainwindow.cpp"
   "C:/Users/Administrator/Documents/TelaDeLogin/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/TelaDeLogin_autogen/mocs_compilation.cpp"

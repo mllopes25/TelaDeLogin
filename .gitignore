@@ -1,65 +1,75 @@
-# Arquivos de Cache e Temporários Básicos
-*~
-*.orig
-*.rej
-.#*
-*.*#
-*.swp
-.DS_Store
-Thumbs.db
-core
-tags
+# ----------------------------------------------------------------------
+# Diretórios de Build e Cache da IDE (CRUCIAIS PARA IGNORAR)
+# Para resolver o problema dos warnings, a pasta 'build/' é essencial.
+# ----------------------------------------------------------------------
+# Ignora a pasta de build comum e qualquer pasta com 'build' no nome
+/build/
+/build*/ 
+# Arquivos e diretórios de cache e sessão do Qt Creator
+.qtcreator/
+*.pro.user*
+*.qbs.user*
+CMakeLists.txt.user*
 
-# Binários e Bibliotecas
-# ----------------------
-*.a
-*.so*
-*.dll
-*.exe
+# ----------------------------------------------------------------------
+# Binários e Artefatos de Compilação
+# ----------------------------------------------------------------------
 *.o
 *.obj
-*.qm
+*.a
+*.so
+*.so.*
+*.dll
+*.exe
+*.qm             # Arquivos de tradução compilados
+*.pdb            # Arquivos de debug (Visual Studio)
 
-# Arquivos Gerados pelo Qt
-# -----------------------
+# ----------------------------------------------------------------------
+# Arquivos Gerados pelo Qt (MOC, UIC, RCC)
+# ----------------------------------------------------------------------
 moc_*.cpp
 ui_*.h
 qrc_*.cpp
 *.moc
-*.prl
-*.app
-*.res
-*.rc
-
-# Arquivos e Diretórios Gerados pelo CMake/Build
-# ---------------------------------------------
-/build*/
-build/ # Adiciona a pasta de build comum
 .moc/
 .obj/
 .pch/
 .rcc/
 .uic/
+
+# ----------------------------------------------------------------------
+# Arquivos Temporários de IDEs e Editores
+# ----------------------------------------------------------------------
+# Qt Creator
+*.prl
+*.app
 *.Debug
 *.Release
-Makefile*
 
-# Arquivos de Usuário e Cache da IDE (MUITO IMPORTANTES DE IGNORAR)
-# -------------------------------------------------------------
-*.pro.user* # Qt Creator
-*.qbs.user*
-CMakeLists.txt.user* # Qt Creator
-.qtcreator/ # Pasta de cache da IDE
-/.qmake.cache
-/.qmake.stash
+# Editores de Texto Comuns
+*~
+*.autosave
+*.orig
+*.rej
+.#*
+*.*#
+*.swp         # Vim
+*.flc         # XEmacs
+tags
 
-# Arquivos Visual Studio/Outros
-# -----------------------------
-*.pdb
-*.sln
+# Visual Studio (se estiver usando em algum momento)
+*.idb
+*.ilk
 *.suo
-*.vcproj
-*.vcxproj
+*.sln
 *.ncb
 *.sdf
 *.opensdf
+*.vcproj
+*.vcxproj
+*.ib_pdb_index
+
+# Mac/Windows Cache
+.DS_Store
+.directory
+Thumbs.db
